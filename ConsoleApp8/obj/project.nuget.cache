@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "36tf6Ml0e1Ape3p64yjXodTydQmunEh19Xn7ekLpq3atj+5mVMCQY4FxygkjFdDkDp2/HrUvxnQ31YO2mKyk4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gastf\\source\\repos\\ConsoleApp8\\ConsoleApp8\\ConsoleApp8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gastf\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\gastf\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
